@@ -1,0 +1,15 @@
+D:\Git\ISOB\laba1\laba1\bin\Debug\laba1.exe.config
+D:\Git\ISOB\laba1\laba1\bin\Debug\laba1.exe
+D:\Git\ISOB\laba1\laba1\bin\Debug\laba1.pdb
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+D:\Git\ISOB\laba1\laba1\obj\Debug\MainWindow.g.cs
+D:\Git\ISOB\laba1\laba1\obj\Debug\App.g.cs
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1_MarkupCompile.cache
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1_MarkupCompile.lref
+D:\Git\ISOB\laba1\laba1\obj\Debug\MainWindow.baml
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1.g.resources
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1.exe
+D:\Git\ISOB\laba1\laba1\obj\Debug\laba1.pdb

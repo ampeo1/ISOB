@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Save File" Command="{Binding SaveFile}"  HorizontalAlignment="Left" Margin="38,26,0,0" VerticalAlignment="Top" Width="86" Height="23"/>
+        <Button Content="Choose file" Command="{Binding ChooseFile}" HorizontalAlignment="Left" Margin="129,26,0,0" VerticalAlignment="Top" Width="79" Height="24"/>
+        <TextBox Text="{Binding Path=FileName}" HorizontalAlignment="Left" Height="23" Margin="213,26,0,0" TextWrapping="Wrap" IsReadOnly="True"  VerticalAlignment="Top" Width="549"/>
+        <TextBox Text="{Binding Path=InputText}" HorizontalAlignment="Left" Margin="38,76,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Height="230" Width="336"/>
+        <TextBox Text="{Binding Path=OutputText}" HorizontalAlignment="Left" Height="230" Margin="392,76,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="370"/>
+        <Button Content="Caesar Encrypt" Command="{Binding CauserEncryptCommand}" HorizontalAlignment="Left" Margin="336,328,0,0" VerticalAlignment="Top" Width="104"/>
+        <Button Content="Vigenere Encrypt" Command="{Binding VigenereEncryptCommand}" HorizontalAlignment="Left" Margin="336,366,0,0" VerticalAlignment="Top" Width="104"/>
+        <TextBox Text="{Binding Path=Key}" HorizontalAlignment="Left" Height="20" Margin="248,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71"/>
+        <Label Content="Key" HorizontalAlignment="Left" Margin="213,325,0,0" VerticalAlignment="Top" Height="27" Width="30" RenderTransformOrigin="1.778,0.448"/>
+        <Button Content="Causer Decrypt" Command="{Binding CauserDecryptCommand}" HorizontalAlignment="Left" Margin="455,328,0,0" VerticalAlignment="Top" Width="104"/>
+        <TextBox Text="{Binding Path=Word}" HorizontalAlignment="Left" Height="20" Margin="248,366,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71"/>
+        <Label Content="Word" HorizontalAlignment="Left" Margin="204,363,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.184,0.346"/>
+        <Button Content="Vigenere Decrypt" Command="{Binding VigenereDecryptCommand}" HorizontalAlignment="Left" Margin="455,366,0,0" VerticalAlignment="Top" Width="104"/>
     </Grid>
 </Window>
