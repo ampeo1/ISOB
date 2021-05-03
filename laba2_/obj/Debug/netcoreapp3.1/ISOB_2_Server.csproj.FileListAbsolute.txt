@@ -1,0 +1,13 @@
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\bin\Debug\netcoreapp3.1\ISOB_2_Server.exe
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\bin\Debug\netcoreapp3.1\ISOB_2_Server.deps.json
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\bin\Debug\netcoreapp3.1\ISOB_2_Server.runtimeconfig.json
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\bin\Debug\netcoreapp3.1\ISOB_2_Server.runtimeconfig.dev.json
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\bin\Debug\netcoreapp3.1\ISOB_2_Server.dll
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\bin\Debug\netcoreapp3.1\ISOB_2_Server.pdb
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\obj\Debug\netcoreapp3.1\ISOB_2_Server.csprojAssemblyReference.cache
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\obj\Debug\netcoreapp3.1\ISOB_2_Server.AssemblyInfoInputs.cache
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\obj\Debug\netcoreapp3.1\ISOB_2_Server.AssemblyInfo.cs
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\obj\Debug\netcoreapp3.1\ISOB_2_Server.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\obj\Debug\netcoreapp3.1\ISOB_2_Server.dll
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\obj\Debug\netcoreapp3.1\ISOB_2_Server.pdb
+C:\Users\nikita\source\repos\ISOB_2\ISOB_2\obj\Debug\netcoreapp3.1\ISOB_2_Server.genruntimeconfig.cache

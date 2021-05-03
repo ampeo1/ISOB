@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ISOB_2_Сlient/1.0.0": {
+        "runtime": {
+          "ISOB_2_Сlient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISOB_2_Сlient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

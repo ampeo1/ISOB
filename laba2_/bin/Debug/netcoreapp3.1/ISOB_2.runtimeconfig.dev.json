@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ampeo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ampeo\\.nuget\\packages"
+    ]
+  }
+}
